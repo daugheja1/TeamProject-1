@@ -1,2 +1,9 @@
-# TeamProject-1
-Its the First Team Project probably...
+Team Project Ideas
+
+Resturant
+  - Fancy
+  - Steakhouse
+  - Diner
+  - Cheap but good
+Informational Forum
+  - Hard because of branding
