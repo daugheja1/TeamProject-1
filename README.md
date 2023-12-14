@@ -7,3 +7,8 @@ Resturant
   - Cheap but good
 Informational Forum
   - Hard because of branding
+
+
+
+Final Idea:
+Diner with a wide selection of foods available.
